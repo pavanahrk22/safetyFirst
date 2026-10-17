@@ -27,8 +27,8 @@ Column names are matched after trimming and replacing spaces with `_`, so `Prima
 ## Setup
 
 ```bash
-git clone <your-repo-url>
-cd crime-hotspot-analysis
+git clone https://github.com/pavanahrk22/safetyFirst.git
+cd safetyFirst
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
